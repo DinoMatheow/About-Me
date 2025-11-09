@@ -1,10 +1,12 @@
 <h1 align="center" style="color:#00bcd4;">
   ✨ <i>If you can imagine it, you can program it.</i> ✨
 </h1>
+
 ###
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=If+you+can+imagine+it%2C+you+can+program+it." alt="If you can imagine it, you can program it.">
-</p>
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg"  />
+</div>
 
 ###
 
