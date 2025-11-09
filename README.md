@@ -85,3 +85,11 @@ I'm a Software Engineering student from Lima, Peru.<br><br>
 
 ###
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DinoMatheow/DinoMatheow/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman contribution graph dark" />
+  <img src="https://raw.githubusercontent.com/DinoMatheow/DinoMatheow/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pacman contribution graph light" />
+</p>
+
+###
+
