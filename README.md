@@ -26,8 +26,6 @@ I'm a Software Engineering student from Lima, Peru.<br><br>
 
 ###
 
-###
-
 <div align="center">
 
   <a href="https://www.linkedin.com/in/axel-chavez-malpartida-41870827a/" target="_blank">
